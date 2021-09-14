@@ -10,5 +10,5 @@ async def on_ready():
 @bot.command()
 async def hello(ctx):
     await ctx.send("Hello!")
-bot.run('ODg3Mzg4MjU3NjM2MjAwNDg4.YUDatw.mPaDB8P20aGR--kFLroQjdgAzMc')  
+bot.run('token')  
 # Don't reveal your bot token, regenerate it asap if you do
